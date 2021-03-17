@@ -103,7 +103,7 @@ Once the application is running, navigate to **http://localhost:5000** in your b
     }
   ```
 
-  **REST API: Show transaction details for ERC20 transfer**
+**REST API: Show transaction details for ERC20 transfer**
 ----
   Returns json data about ERC20 transfer.
 
